@@ -69,8 +69,8 @@ public class BinaryTree<K, V> {
 		bNode.right = bRNode;
 		System.out.println(getNodeNum(bNode));
 		System.out.println(getNodeDeep(bNode));
-//		System.out.println(-9%10);
-//		Math.random();
+		System.out.println(-9%10);
+		Math.random();
 		}
 
 }
